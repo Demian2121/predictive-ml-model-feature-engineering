@@ -1,4 +1,4 @@
-# # Modelo Predictivo con Ingeniería de Características
+# Modelo Predictivo con Ingeniería de Características
 
 ## Descripción
 
